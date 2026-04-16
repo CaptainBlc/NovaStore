@@ -1,2 +1,0 @@
-no named pipe instance matching 'NOVASTORE' returned from host '(localdb)'
-no named pipe instance matching 'NOVASTORE' returned from host '(localdb)'
