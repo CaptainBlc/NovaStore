@@ -1,0 +1,20 @@
+{
+  "name": "batuhan_tasdemir_novastore_stajprojesi",
+  "version": "1.0.0",
+  "description": "**Ad Soyad:** Batuhan Taşdemir  \r **Proje Adı:** NovaStore E-Ticaret Platformu  \r **Tarih:** Nisan 2026",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "docx": "^9.6.1"
+  },
+  "devDependencies": {
+    "jszip": "^3.10.1",
+    "pdf-lib": "^1.17.1",
+    "puppeteer-core": "^24.41.0"
+  }
+}

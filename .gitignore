@@ -1,0 +1,41 @@
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Build outputs
+dist/
+build/
+.parcel-cache/
+.vite/
+coverage/
+
+# Env
+.env
+.env.*
+
+# Flutter / Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+pubspec.lock
+build/
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+android/.gradle/
+android/app/build/
+
+# IDE
+*.iml
+.idea/
+
